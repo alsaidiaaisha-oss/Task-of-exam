@@ -1,0 +1,3 @@
+Q1: What is 10 / 2?|5
+Q2: What is the largest planet?|Jupiter
+Q3: What language is used in C#?|C#

@@ -1,0 +1,15 @@
+C:\Users\alsai\Downloads\BackEnd\BackEnd\solution09task1\project01\bin\Debug\net8.0\project01.exe
+C:\Users\alsai\Downloads\BackEnd\BackEnd\solution09task1\project01\bin\Debug\net8.0\project01.deps.json
+C:\Users\alsai\Downloads\BackEnd\BackEnd\solution09task1\project01\bin\Debug\net8.0\project01.runtimeconfig.json
+C:\Users\alsai\Downloads\BackEnd\BackEnd\solution09task1\project01\bin\Debug\net8.0\project01.dll
+C:\Users\alsai\Downloads\BackEnd\BackEnd\solution09task1\project01\bin\Debug\net8.0\project01.pdb
+C:\Users\alsai\Downloads\BackEnd\BackEnd\solution09task1\project01\obj\Debug\net8.0\project01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alsai\Downloads\BackEnd\BackEnd\solution09task1\project01\obj\Debug\net8.0\project01.AssemblyInfoInputs.cache
+C:\Users\alsai\Downloads\BackEnd\BackEnd\solution09task1\project01\obj\Debug\net8.0\project01.AssemblyInfo.cs
+C:\Users\alsai\Downloads\BackEnd\BackEnd\solution09task1\project01\obj\Debug\net8.0\project01.csproj.CoreCompileInputs.cache
+C:\Users\alsai\Downloads\BackEnd\BackEnd\solution09task1\project01\obj\Debug\net8.0\project01.sourcelink.json
+C:\Users\alsai\Downloads\BackEnd\BackEnd\solution09task1\project01\obj\Debug\net8.0\project01.dll
+C:\Users\alsai\Downloads\BackEnd\BackEnd\solution09task1\project01\obj\Debug\net8.0\refint\project01.dll
+C:\Users\alsai\Downloads\BackEnd\BackEnd\solution09task1\project01\obj\Debug\net8.0\project01.pdb
+C:\Users\alsai\Downloads\BackEnd\BackEnd\solution09task1\project01\obj\Debug\net8.0\project01.genruntimeconfig.cache
+C:\Users\alsai\Downloads\BackEnd\BackEnd\solution09task1\project01\obj\Debug\net8.0\ref\project01.dll
